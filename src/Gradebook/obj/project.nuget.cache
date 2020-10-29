@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9roCBuIigb1GerGhP76qY7AqDi12d+jvOps2Pmk+l+dRTII/RfDyAQthxAr7UZiXoz9DI6vDDqtdJ5p0ZwZSQ==",
+  "dgSpecHash": "0/E7jlpWAY5RF0Ee3fPF/wtgQsH4qkVyTxap9AijUCqpy0XtcXYDsm7i98XRt1/i5fHQ/jJReIBc6Myve4CEiQ==",
   "success": true,
-  "projectFilePath": "/Users/kevinanderson/coding/pluralsight/c#/gradebook/src/Gradebook/Gradebook.csproj",
+  "projectFilePath": "C:\\Users\\KevinAnderson\\gradebook\\src\\GradeBook\\Gradebook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
