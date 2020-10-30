@@ -38,7 +38,8 @@ namespace Gradebook
             }
             else
             {
-                Console.WriteLine("Invalid Value");
+                System.Console.WriteLine(grade);
+                throw new ArgumentException("Invalid grade");
             }
         }
         public Statistics GetStatistics()
